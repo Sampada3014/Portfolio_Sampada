@@ -1,4 +1,4 @@
-# ISayani Portfolio with React
+# Sampada Portfolio with React
 
 ## Description
 
@@ -56,7 +56,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Installation
-This application is deployed on [GitHub Pages](https://isayani.github.io/sampada-react-portfolio/).
+This application is deployed on [GitHub Pages](https://Sampada.github.io/sampada-react-portfolio/).
 
 <br/>
 The following animation demonstrates the application's functionality:
@@ -96,7 +96,7 @@ No tests were run to complete this application.
 
 ## Questions
 Find Insha Sayani on [GitHub](https://github.com/Sampada14762)<br/>
-Or visit the portfolio's repository: [ISayani React Portfolio](https://github.com/Sampada14762/sampada-react-portfolio)
+Or visit the portfolio's repository: [Sampada React Portfolio](https://github.com/Sampada14762/sampada-react-portfolio)
 
 - - -
-© 2022 ISayani Creative Services, Confidential and Proprietary. All Rights Reserved.
+© 2022 Sampada Creative Services, Confidential and Proprietary. All Rights Reserved.
