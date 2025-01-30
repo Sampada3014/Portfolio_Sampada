@@ -56,7 +56,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Installation
-This application is deployed on [GitHub Pages](https://Sampada.github.io/sampada-react-portfolio/).
+This application is deployed on [GitHub Pages](https://github.com/Sampada14762/portfolio).
 
 
 
