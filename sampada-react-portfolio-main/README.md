@@ -58,15 +58,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Installation
 This application is deployed on [GitHub Pages](https://Sampada.github.io/sampada-react-portfolio/).
 
-<br/>
-The following animation demonstrates the application's functionality:
 
-https://user-images.githubusercontent.com/107900180/206947139-ed155f5c-688d-4cf2-bf78-e1e78d60669f.mp4
-
-<br/>
-The following animation demonstrates the application's mobile interface:
-
-https://user-images.githubusercontent.com/107900180/206946944-20f3e823-75e3-4487-bed5-c705e0686de0.mp4
 
 ## License
 
