@@ -88,7 +88,7 @@ No tests were run to complete this application.
 
 ## Questions
 Find Insha Sayani on [GitHub](https://github.com/Sampada14762)<br/>
-Or visit the portfolio's repository: [Sampada React Portfolio](https://github.com/Sampada14762/sampada-react-portfolio)
+Or visit the portfolio's repository: [Sampada React Portfolio](https://github.com/Sampada14762/portfolio)
 
 - - -
 © 2022 Sampada Creative Services, Confidential and Proprietary. All Rights Reserved.
