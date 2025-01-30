@@ -95,8 +95,8 @@ We'd love for you to contribute! In order to do so, fork this repository. Your p
 No tests were run to complete this application.
 
 ## Questions
-Find Insha Sayani on [GitHub](https://github.com/sampada)<br/>
-Or visit the portfolio's repository: [ISayani React Portfolio](https://github.com/sampada/sampada-react-portfolio)
+Find Insha Sayani on [GitHub](https://github.com/Sampada14762)<br/>
+Or visit the portfolio's repository: [ISayani React Portfolio](https://github.com/Sampada14762/sampada-react-portfolio)
 
 - - -
 © 2022 ISayani Creative Services, Confidential and Proprietary. All Rights Reserved.

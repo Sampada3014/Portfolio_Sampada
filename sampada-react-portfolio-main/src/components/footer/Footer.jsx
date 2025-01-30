@@ -32,7 +32,7 @@ function Footer() {
     <FiLinkedin />
   </a>
   <span className="mobile__socials">
-    <a href="https://github.com/sampada" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/Sampada1476214762" target="_blank" rel="noopener noreferrer">
       <FiGithub />
     </a>
     <a href="https://linkedin.com/in/sampada-kuveskar-07514525a" target="_blank" rel="noopener noreferrer">
