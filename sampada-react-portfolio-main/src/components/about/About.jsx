@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import meAbout from "../../assets/IMG_0337.jpg";
+import meAbout from "../../assets/WhatsApp Image 2025-01-31 at 10.23.49.jpeg";
 import { FaAward, FaUsers, FaTasks } from "react-icons/fa";
 
 function About() {
